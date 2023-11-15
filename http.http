@@ -1,0 +1,5 @@
+POST http://0.0.0.0/api/products/4/like
+Content-type: application/json
+Accept: application/json
+
+{}
